@@ -1,0 +1,24 @@
+body{
+	 background-color: green;
+	 
+}
+img{
+	width: 100%;
+}
+
+#content {
+	width:80%;
+	margin: auto;
+}
+
+#text{
+	background-color: blue;
+}
+
+#list{
+	background-color: red;
+}
+
+#buton1{
+	width: 100%;
+}

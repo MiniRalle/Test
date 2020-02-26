@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type= "text/javascript" src="Exercise.js"></script>
+	<body>
+	<div id="newContent"> </div>
+	<button id = "button1" oneclick ="insertTExt()"> Test </button>
+	</body>
+</head>
+</html>
